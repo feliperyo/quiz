@@ -2,7 +2,7 @@ import { useContext } from "react";
 
 import { QuizContext } from "../context/quiz";
 
-import Category from "../img/category.png";
+import Category from "../assets/category.png";
 
 import "./PickCategory.css";
 
